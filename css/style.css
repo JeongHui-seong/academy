@@ -17,6 +17,7 @@ input:focus {
 body,
 html {
     font-family: 'SUIT Variable', sans-serif;
+    height: 100%;
 }
 
 p,
